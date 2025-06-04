@@ -13,13 +13,13 @@ The app allows users to:
 ---
 
 ## 📁 Repository Structure
-
+```
 ├── lulc_forecast.py # Main ML model for forecasting LULC \n
 ├── lulc_ui.py # Streamlit-based UI for interaction \n
 ├── maharashtra_state_lulc.csv # Historical LULC dataset \n
 ├── future_predictions.csv # Future LULC predictions (generated) \n
 ├── requirements.txt # Python dependencies
-
+```
 ## 🛠️ Installation and Setup
 
 ### 1. Clone the Repository
