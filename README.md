@@ -49,6 +49,21 @@ maharashtra_state_lulc.csv: Contains past land use and cover statistics for Maha
 
 future_predictions.csv: Output from the trained model containing forecasted LULC data.
 
+## 🛠️ Technologies Used
+Python — Core programming language for data processing and modeling
+
+Pandas & NumPy — Data manipulation and numerical operations
+
+Scikit-learn / XGBoost — Machine learning libraries for building forecasting models
+
+Matplotlib & Seaborn — Visualization of data and model results
+
+Streamlit — Web framework for building and deploying the interactive app
+
+Satellite Data Sources (e.g., Bhuvan) — For land use and land cover satellite imagery data
+
+Joblib — Model serialization and saving/loading
+
 ## 🤝 Collaboration
 
 This project was carried out as a collaborative effort between team members to combine expertise in remote sensing, machine learning. 
